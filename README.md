@@ -12,7 +12,6 @@
 - [Data Source](#data-source)
 - [Stages](#stages)
 - [Design](#design)
-  - [Mockup](#mockup)
   - [Tools](#tools)
 - [Development](#development)
   - [Pseudocode](#pseudocode)
@@ -21,7 +20,6 @@
   - [Transform the Data](#transform-the-data)
   - [Create the SQL View](#create-the-sql-view)
 - [Testing](#testing)
-  - [Data Quality Tests](#data-quality-tests)
 - [Visualization](#visualization)
   - [Results](#results)
   - [DAX Measures](#dax-measures)
@@ -31,7 +29,7 @@
   - [Discovery](#discovery)
 - [Recommendations](#recommendations)
   - [Potential ROI](#potential-roi)
-  - [Potential Courses of Actions](#potential-courses-of-actions)
+  - [Potential Courses of Actions](#Action-plan)
 - [Conclusion](#conclusion)
 
 
@@ -119,10 +117,6 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 
 
-![Dashboard-Mockup](assets/images
-/dashboard_mockup (1).png
-)
-
 
 ## Tools 
 
@@ -152,7 +146,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 8. Write the documentation + commentary
 9. Publish the data to GitHub Pages
 
-## Data exploration notes
+## Data exploration
 
 This is the stage where you have a scan of what's in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc  
 
